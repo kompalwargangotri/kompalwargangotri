@@ -27,7 +27,7 @@ Offline multilingual AI tutor with voice-enabled learning, RAG, multilingual sup
 
 ---
 
-### [🩺 NephroPredict – CKD Prediction](https://github.com/kompalwargangotri/NEPHROPREDICT-AI-BASED-EARLY-CKD-PREDICTION-UNDER-CLASS-IMBALANCE-CHALLENGE)
+### [🩺 NephroPredict – CKD Prediction](https://github.com/kompalwargangotri/nephropredict-ckd-detection)
 
 Machine-learning system for early detection of chronic kidney disease using SMOTE and multiple classification models.
 
