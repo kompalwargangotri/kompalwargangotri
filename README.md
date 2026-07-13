@@ -19,17 +19,35 @@
 
 ## Featured Projects
 
-### GramNet AI – Offline AI Tutor
-Offline multilingual AI tutor with voice-enabled learning, adaptive quizzes and educational assistance.
+### [🎓 GramNet AI – Offline AI Tutor](https://github.com/kompalwargangotri/GramNet-AI-Offline-Smart-Village-Education-Assistance-System.)
 
-### NephroPredict – CKD Prediction
-Machine-learning system for early detection of chronic kidney disease using class-imbalance handling and multiple classification models.
+Offline multilingual AI tutor with voice-enabled learning, RAG, multilingual support and adaptive quizzes.
 
-### Automated Video KYC and AML Detection
-Compliance system combining YOLOv8, OCR, facial verification and anomaly detection.
+**Technologies:** Python, NLP, RAG, TinyLLaMA, FastAPI, Flutter
 
-### Energy Consumption Prediction
-Machine-learning and deep-learning system for forecasting and optimizing energy consumption.
+---
+
+### [🩺 NephroPredict – CKD Prediction](https://github.com/kompalwargangotri/NEPHROPREDICT-AI-BASED-EARLY-CKD-PREDICTION-UNDER-CLASS-IMBALANCE-CHALLENGE)
+
+Machine-learning system for early detection of chronic kidney disease using SMOTE and multiple classification models.
+
+**Technologies:** Python, Scikit-learn, SMOTE, Random Forest, Flask
+
+---
+
+### [🔐 Automated Video KYC and AML Detection](https://github.com/kompalwargangotri/YOLO-Based-Automated-Video-KYC-and-Anti-Money-Laundering-Fraud-Detection)
+
+Automated compliance framework combining person detection, OCR, facial verification and anomaly detection.
+
+**Technologies:** Python, YOLOv8, Tesseract OCR, DeepFace, Isolation Forest
+
+---
+
+### [⚡ Energy Consumption Prediction](https://github.com/kompalwargangotri/AI-Based-Energy-Consumption-Prediction-and-Optimization-System)
+
+AI-based system for forecasting and optimizing energy consumption using machine-learning and deep-learning techniques.
+
+**Technologies:** Python, Machine Learning, Deep Learning, Pandas, Scikit-learn
 
 ## Currently Learning
 
