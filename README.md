@@ -59,4 +59,8 @@ AI-based system for forecasting and optimizing energy consumption using machine-
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
-- Email: `kompalwargangotri@gmail.com`
+- [Email](mailto:kompalwargangotri@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me for AI/ML opportunities and collaborations.
