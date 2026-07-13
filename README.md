@@ -19,7 +19,7 @@
 
 ## Featured Projects
 
-### [🎓 GramNet AI – Offline AI Tutor](https://github.com/kompalwargangotri/GramNet-AI-Offline-Smart-Village-Education-Assistance-System.)
+### [🎓 GramNet AI – Offline AI Tutor](https://github.com/kompalwargangotri/gramnet-ai-tutor)
 
 Offline multilingual AI tutor with voice-enabled learning, RAG, multilingual support and adaptive quizzes.
 
