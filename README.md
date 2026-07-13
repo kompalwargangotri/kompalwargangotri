@@ -35,7 +35,7 @@ Machine-learning system for early detection of chronic kidney disease using SMOT
 
 ---
 
-### [🔐 Automated Video KYC and AML Detection](https://github.com/kompalwargangotri/YOLO-Based-Automated-Video-KYC-and-Anti-Money-Laundering-Fraud-Detection)
+### [🔐 Automated Video KYC and AML Detection](https://github.com/kompalwargangotri/video-kyc-aml-detection)
 
 Automated compliance framework combining person detection, OCR, facial verification and anomaly detection.
 
