@@ -43,7 +43,7 @@ Automated compliance framework combining person detection, OCR, facial verificat
 
 ---
 
-### [⚡ Energy Consumption Prediction](https://github.com/kompalwargangotri/AI-Based-Energy-Consumption-Prediction-and-Optimization-System)
+### [⚡ Energy Consumption Prediction](https://github.com/kompalwargangotri/energy-consumption-prediction)
 
 AI-based system for forecasting and optimizing energy consumption using machine-learning and deep-learning techniques.
 
