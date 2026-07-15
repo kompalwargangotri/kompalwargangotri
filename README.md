@@ -11,10 +11,10 @@
 ## Technical Skills
 
 - **Programming:** Python, SQL, C++
-- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision
+- **AI/ML:** Machine Learning, Deep Learning, NLP
 - **Generative AI:** LangChain, LangGraph, RAG
 - **Frameworks:** Scikit-learn, TensorFlow, PyTorch, FastAPI
-- **Tools:** Git, GitHub, Docker, Jupyter Notebook, Google Colab
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 - **Other:** Flutter, Arduino, ESP8266
 
 ## Featured Projects
