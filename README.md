@@ -143,10 +143,10 @@ Machine Learning-based energy forecasting and optimization system using Support 
 
 # 📜 Certifications
 
-- 🏅 **Fundamentals of Deep Learning** — NVIDIA ([View Certificate](certificate-link)
-- 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation ([View Certificate](certificate-link))
-- 🏅 **Claude 101** — Anthropic ([View Certificate](certificate-link))
-- 🏅 **AI Fluency: Framework & Foundations** — Anthropic ([View Certificate](certificate-link))
+- 🏅 **Fundamentals of Deep Learning** — NVIDIA 
+- 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation 
+- 🏅 **Claude 101** — Anthropic 
+- 🏅 **AI Fluency: Framework & Foundations** — Anthropic 
 
 ---
 
