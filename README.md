@@ -84,7 +84,7 @@
 
 ---
 
-### 🌐 Web Development Intern
+### 🌐 Web Development Trainee
 **TLogic Foundation** | Jan 2024 – Feb 2024
 
 - Developed responsive web applications using HTML, CSS, JavaScript, and backend form processing with database integration.
