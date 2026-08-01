@@ -45,7 +45,7 @@ Offline multilingual AI tutor powered by Retrieval-Augmented Generation (RAG), T
 ---
 
 ## 🔐 SecureFin: Video KYC & AML Fraud Detection
-🔗 https://github.com/kompalwargangotri/video-kyc-aml-detection
+🔗 [https://github.com/kompalwargangotri/video-kyc-aml-detection](https://github.com/kompalwargangotri/securefin-video-kyc-aml)
 
 AI-powered Video KYC and AML fraud detection system integrating YOLOv8, Tesseract OCR, DeepFace, liveness detection, and Isolation Forest for secure identity verification.
 
