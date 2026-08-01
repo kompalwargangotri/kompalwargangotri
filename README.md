@@ -54,7 +54,7 @@ AI-powered Video KYC and AML fraud detection system integrating YOLOv8, Tesserac
 ---
 
 ## 🩺 NephroPredict: AI-Based Early Chronic Kidney Disease Detection
-🔗 https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection
+🔗 [https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection](https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection)
 
 Machine Learning-based healthcare application using Random Forest for early Chronic Kidney Disease prediction with 90.96% accuracy and real-time prediction support.
 
