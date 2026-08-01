@@ -36,7 +36,7 @@
 # Featured Projects
 
 ## 🎓 GramNet AI: Offline Multilingual RAG-based AI Tutor
-🔗 https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor
+🔗 [https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor](https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor)
 
 Offline multilingual AI tutor powered by Retrieval-Augmented Generation (RAG), TinyLLaMA, FastAPI, FAISS, and SentenceTransformers for intelligent learning in low-connectivity environments.
 
