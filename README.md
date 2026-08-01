@@ -147,7 +147,6 @@ Machine Learning-based energy forecasting and optimization system using Support 
 - 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation ([View Certificate](certificate-link))
 - 🏅 **Claude 101** — Anthropic ([View Certificate](certificate-link))
 - 🏅 **AI Fluency: Framework & Foundations** — Anthropic ([View Certificate](certificate-link))
-- 🏅 **Java Programming Masterclass** — Alison ([View Certificate](certificate-link))
 
 ---
 
