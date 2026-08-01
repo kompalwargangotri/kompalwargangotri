@@ -63,7 +63,7 @@ Machine Learning-based healthcare application using Random Forest for early Chro
 ---
 
 ## ⚡ AI-Based Energy Consumption Prediction & Optimization
-🔗 https://github.com/kompalwargangotri/ai-energy-consumption-prediction
+🔗 [https://github.com/kompalwargangotri/ai-energy-consumption-prediction](https://github.com/kompalwargangotri/ai-energy-consumption-prediction)
 
 Machine Learning-based energy forecasting and optimization system using Support Vector Regression (SVR) with Streamlit deployment for intelligent energy management.
 
