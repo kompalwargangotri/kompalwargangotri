@@ -66,6 +66,32 @@
 
 ---
 
+# 💼 Internships
+
+### 🤖 Artificial Intelligence & Machine Learning Intern
+**SmartBridge (SkillWallet)** | Jun 2025 – Aug 2025
+
+- Completed an experiential AI/ML internship focused on Python, Machine Learning, and real-world project development.
+- Built practical skills in data preprocessing, feature engineering, model development, and model evaluation.
+
+---
+
+### 🐍 Python Programming Intern
+**YBI Foundation** | Jun 2024 – Jul 2024
+
+- Completed a project-based internship focused on Python programming and application development.
+- Strengthened programming fundamentals, OOP, file handling, exception handling, debugging, and problem-solving skills.
+
+---
+
+### 🌐 Web Development Intern
+**TLogic Foundation** | Jan 2024 – Feb 2024
+
+- Developed responsive web applications using HTML, CSS, JavaScript, and backend form processing with database integration.
+- Gained hands-on experience in full-stack web development and responsive UI design.
+
+---
+
 # 🚀 Featured Projects
 
 ## 🎓 GramNet AI: Offline Multilingual RAG-based AI Tutor
@@ -117,11 +143,13 @@ Machine Learning-based energy forecasting and optimization system using Support 
 
 # 📜 Certifications
 
-- 🏅 **Fundamentals of Deep Learning** — NVIDIA ([View Certificate](certificate-link))
+- 🏅 **Fundamentals of Deep Learning** — NVIDIA ([View Certificate](certificate-link)
 - 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation ([View Certificate](certificate-link))
 - 🏅 **Claude 101** — Anthropic ([View Certificate](certificate-link))
 - 🏅 **AI Fluency: Framework & Foundations** — Anthropic ([View Certificate](certificate-link))
 - 🏅 **Java Programming Masterclass** — Alison ([View Certificate](certificate-link))
+
+---
 
 # 📊 GitHub Statistics
 
