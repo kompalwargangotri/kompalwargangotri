@@ -2,70 +2,100 @@
 
 ## About Me
 
-🎓 Final-Year B.Tech student at MIT Academy of Engineering, Pune  
-💡 Interested in Artificial Intelligence and Machine Learning  
-🐍 Working with Python, Machine Learning and Deep Learning  
-🤖 Currently exploring Generative AI, LangChain and LangGraph  
-🎯 Seeking AI/ML internship and placement opportunities  
+🎓 Final-Year B.Tech student in Electronics and Telecommunication Engineering at MIT Academy of Engineering, Pune
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI
+
+💻 Experienced in building AI-powered applications using Python, FastAPI, RAG, NLP, Computer Vision, and Machine Learning
+
+🚀 Interested in developing scalable AI solutions, intelligent automation, and real-world AI applications
+
+🎯 Actively seeking AI/ML Engineer, Generative AI Engineer, and Python Developer opportunities
+
+---
 
 ## Technical Skills
 
-- **Programming:** Python, SQL, C++
-- **AI/ML:** Machine Learning, Deep Learning, NLP
-- **Generative AI:** LangChain, LangGraph, RAG
-- **Frameworks:** Scikit-learn, TensorFlow, PyTorch, FastAPI
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
-- **Other:** Flutter, Arduino, ESP8266
+### Programming Languages
+- Python • SQL • C++
 
-## Featured Projects
+### Artificial Intelligence
+- Machine Learning • Deep Learning • Generative AI • Natural Language Processing (NLP) • Computer Vision • Retrieval-Augmented Generation (RAG)
 
-### [🎓 GramNet AI – Offline AI Tutor](https://github.com/kompalwargangotri/gramnet-ai-tutor)
+### Frameworks & Libraries
+- Scikit-learn • TensorFlow • PyTorch • FastAPI • FAISS • SentenceTransformers
 
-Offline multilingual AI tutor with voice-enabled learning, RAG, multilingual support and adaptive quizzes.
+### Web & Database
+- HTML • CSS • JavaScript • SQLite
 
-**Technologies:** Python, NLP, RAG, TinyLLaMA, FastAPI, Flutter
-
----
-
-### [🩺 NephroPredict – CKD Prediction](https://github.com/kompalwargangotri/nephropredict-ckd-detection)
-
-Machine-learning system for early detection of chronic kidney disease using SMOTE and multiple classification models.
-
-**Technologies:** Python, Scikit-learn, SMOTE, Random Forest, Flask
+### Tools & Platforms
+- Git • GitHub • Docker • Jupyter Notebook • Google Colab • Streamlit • Flutter
 
 ---
 
-### [🔐 Automated Video KYC and AML Detection](https://github.com/kompalwargangotri/video-kyc-aml-detection)
+# Featured Projects
 
-Automated compliance framework combining person detection, OCR, facial verification and anomaly detection.
+## 🎓 GramNet AI: Offline Multilingual RAG-based AI Tutor
+🔗 https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor
 
-**Technologies:** Python, YOLOv8, Tesseract OCR, DeepFace, Isolation Forest
+Offline multilingual AI tutor powered by Retrieval-Augmented Generation (RAG), TinyLLaMA, FastAPI, FAISS, and SentenceTransformers for intelligent learning in low-connectivity environments.
+
+**Tech Stack:** Python • FastAPI • TinyLLaMA • FAISS • SentenceTransformers • RAG • Flutter
 
 ---
 
-### [⚡ Energy Consumption Prediction](https://github.com/kompalwargangotri/energy-consumption-prediction)
+## 🔐 SecureFin: Video KYC & AML Fraud Detection
+🔗 https://github.com/kompalwargangotri/video-kyc-aml-detection
 
-AI-based system for forecasting and optimizing energy consumption using machine-learning and deep-learning techniques.
+AI-powered Video KYC and AML fraud detection system integrating YOLOv8, Tesseract OCR, DeepFace, liveness detection, and Isolation Forest for secure identity verification.
 
-**Technologies:** Python, Machine Learning, Deep Learning, Pandas, Scikit-learn
+**Tech Stack:** Python • FastAPI • YOLOv8 • DeepFace • OpenCV • Tesseract OCR • SQLite
+
+---
+
+## 🩺 NephroPredict: AI-Based Early Chronic Kidney Disease Detection
+🔗 https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection
+
+Machine Learning-based healthcare application using Random Forest for early Chronic Kidney Disease prediction with 90.96% accuracy and real-time prediction support.
+
+**Tech Stack:** Python • Scikit-learn • Random Forest • Streamlit • Flask
+
+---
+
+## ⚡ AI-Based Energy Consumption Prediction & Optimization
+🔗 https://github.com/kompalwargangotri/ai-energy-consumption-prediction
+
+Machine Learning-based energy forecasting and optimization system using Support Vector Regression (SVR) with Streamlit deployment for intelligent energy management.
+
+**Tech Stack:** Python • Scikit-learn • SVR • Streamlit • Pandas
+
+---
 
 ## Currently Learning
 
-- Generative AI and RAG
-- LangChain and LangGraph
-- FastAPI and Docker
-- MLOps and cloud fundamentals
-
-## Connect With Me
-
-- [GitHub](https://github.com/kompalwargangotri)
-  
-- [LinkedIn](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
-
-- [Portfolio](https://kompalwargangotri.github.io/)
-  
-- [Email](mailto:kompalwargangotri@gmail.com)
+- Large Language Models (LLMs)
+- Generative AI & Agentic AI
+- LangChain & LangGraph
+- Model Context Protocol (MCP)
+- FastAPI & Docker
+- MLOps & AI Deployment
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me for AI/ML opportunities and collaborations.
+## Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/gangotri-kompalwar-4635b9359
+
+🌐 Portfolio  
+https://kompalwargangotri.github.io/
+
+💻 GitHub  
+https://github.com/kompalwargangotri
+
+📧 Email  
+kompalwargangotri@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for AI/ML, Generative AI, and open-source collaborations.
