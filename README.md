@@ -115,6 +115,14 @@ Machine Learning-based energy forecasting and optimization system using Support 
 
 ---
 
+# 📜 Certifications
+
+- 🏅 **Fundamentals of Deep Learning** — NVIDIA ([View Certificate](certificate-link))
+- 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation ([View Certificate](certificate-link))
+- 🏅 **Claude 101** — Anthropic ([View Certificate](certificate-link))
+- 🏅 **AI Fluency: Framework & Foundations** — Anthropic ([View Certificate](certificate-link))
+- 🏅 **Java Programming Masterclass** — Alison ([View Certificate](certificate-link))
+
 # 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=kompalwargangotri&show_icons=true&theme=tokyonight&hide_border=true)
