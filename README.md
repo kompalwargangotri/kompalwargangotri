@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Gangotri Kompalwar</h1>
 
-<h3 align="center">Aspiring AI/ML Engineer | Generative AI Developer | Computer Vision Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Generative AI Developer | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Python+%7C+FastAPI+%7C+LLM+Applications;Building+Practical+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Python+%7C+FastAPI+%7C+LLM+Applications;Building+Real-World+AI+Solutions" />
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year B.Tech. student in Electronics and Telecommunication Engineering at MIT Academy of Engineering, Pune.
+🎓 Final-year B.Tech. Electronics and Telecommunication Engineering student at MIT Academy of Engineering, Pune.
 
 🤖 Focused on Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Computer Vision.
 
-💻 Hands-on experience developing AI-powered applications using Python, PyTorch, TensorFlow, OpenCV, YOLOv8, FastAPI, and Retrieval-Augmented Generation (RAG).
+💻 Hands-on experience designing and developing AI-powered applications using Python, PyTorch, TensorFlow, OpenCV, YOLOv8, and FastAPI.
 
-🧠 Familiar with LLMs, embeddings, vector databases, semantic search, LangChain, and LangGraph for building intelligent AI workflows.
+🧠 Experienced in building RAG-based applications using LLMs, embeddings, FAISS, and SentenceTransformers, with knowledge of LangChain and LangGraph for agentic workflows.
 
-🚀 Experienced in developing practical solutions involving object detection, document intelligence, identity verification, multilingual AI tutoring, and voice-enabled applications.
+🚀 Developed practical AI solutions involving real-time object detection, Video KYC, document intelligence, identity verification, multilingual AI tutoring, and voice-enabled applications.
 
-🎯 Interested in developing scalable, reliable, and production-oriented AI solutions.
+🎯 Interested in developing scalable, reliable, and production-oriented AI solutions across Generative AI, Computer Vision, Agentic AI, and Voice AI.
 
-💼 Open to opportunities in AI/ML Engineering, Generative AI, Computer Vision, and Python Development.
+💼 Open to AI/ML Engineer, Generative AI Engineer, and Python Developer opportunities.
 
 ---
 
@@ -40,7 +40,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI, Machine Learning & Deep Learning
+### Artificial Intelligence & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
@@ -92,8 +92,8 @@
 ### 🧠 Artificial Intelligence & Generative AI Intern
 **YBI Foundation** | Remote | Aug 2026 – Sep 2026
 
-- Completed a one-month internship focused on Artificial Intelligence and Generative AI.
-- Strengthened technical knowledge through learning activities and project-based tasks involving AI concepts and applications.
+- Completed a one-month internship focused on Artificial Intelligence and Generative AI, gaining practical exposure to emerging AI technologies and applications.
+- Strengthened understanding of AI/ML concepts, Generative AI fundamentals, and practical AI application development through learning activities and project-based tasks.
 
 ### 🌐 Web Development Trainee
 **TLogic Foundation** | Jan 2024 – Feb 2024
@@ -146,7 +146,7 @@ Designed an intelligent energy consumption prediction system using Machine Learn
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Learning
 
 - Agentic AI and autonomous AI workflows
 - LangChain and LangGraph
