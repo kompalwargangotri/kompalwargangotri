@@ -206,36 +206,17 @@ Developed an Arduino-based assistive navigation prototype using dual HC-SR04 ult
 - 🏅 **AI Fluency: Framework & Foundations** – Anthropic
 - 🏅 **Java Programming Masterclass** – Alison
 
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Achievements
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kompalwargangotri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompalwargangotri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kompalwargangotri&theme=tokyonight&hide_border=true" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kompalwargangotri&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kompalwargangotri&theme=tokyo-night" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
