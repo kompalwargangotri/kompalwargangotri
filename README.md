@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Gangotri Kompalwar</h1>
 
-<h3 align="center">Aspiring AI/ML Engineer | Generative AI Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Generative AI Developer | Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+Computer+Vision+%7C+NLP;Building+Real-World+AI+Applications;Python+Developer+%7C+FastAPI+%7C+RAG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Python+%7C+FastAPI+%7C+LLM+Applications;Building+Practical+AI+Solutions" />
 </p>
 
 <p align="center">
@@ -12,174 +13,203 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Final-Year B.Tech student in Electronics and Telecommunication Engineering at MIT Academy of Engineering, Pune.
+🎓 Final-year B.Tech. student in Electronics and Telecommunication Engineering at MIT Academy of Engineering, Pune.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+🤖 Focused on Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Computer Vision.
 
-💻 Experienced in building AI-powered applications using Python, FastAPI, Retrieval-Augmented Generation (RAG), NLP, Computer Vision, and Machine Learning.
+💻 Hands-on experience developing AI-powered applications using Python, PyTorch, TensorFlow, OpenCV, YOLOv8, FastAPI, and Retrieval-Augmented Generation (RAG).
 
-🚀 Interested in developing scalable AI systems, intelligent automation, and real-world AI applications.
+🧠 Familiar with LLMs, embeddings, vector databases, semantic search, LangChain, and LangGraph for building intelligent AI workflows.
 
-🎯 Actively seeking AI/ML Engineer, Generative AI Engineer, and Python Developer opportunities.
+🚀 Experienced in developing practical solutions involving object detection, document intelligence, identity verification, multilingual AI tutoring, and voice-enabled applications.
+
+🎯 Interested in developing scalable, reliable, and production-oriented AI solutions.
+
+💼 Open to opportunities in AI/ML Engineering, Generative AI, Computer Vision, and Python Development.
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Artificial Intelligence
+### AI, Machine Learning & Deep Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E88E5?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-5C6BC0?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-673AB7?style=for-the-badge)
 
 ### Frameworks & Libraries
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F61?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Web & Tools
+### Generative AI & LLM Technologies
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F61?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6741D9?style=for-the-badge)
+![TinyLLaMA](https://img.shields.io/badge/TinyLLaMA-673AB7?style=for-the-badge)
+
+### Web Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-# 💼 Internships
+## 💼 Internships
 
 ### 🤖 Artificial Intelligence & Machine Learning Intern
-**SmartBridge (SkillWallet)** | Jun 2025 – Aug 2025
+**SmartBridge (SkillWallet)** | Remote | Jun 2025 – Aug 2025
 
-- Completed an experiential AI/ML internship focused on Python, Machine Learning, and real-world project development.
-- Built practical skills in data preprocessing, feature engineering, model development, and model evaluation.
+- Gained hands-on experience in Python-based machine learning workflows and predictive analytics.
+- Performed data preprocessing, feature engineering, model development, and performance evaluation.
+- Applied machine learning algorithms to practical problem-solving tasks.
 
----
+### 🧠 Artificial Intelligence & Generative AI Intern
+**YBI Foundation** | Remote | Aug 2026 – Sep 2026
 
-### 🐍 Python Programming Intern
-**YBI Foundation** | Jun 2024 – Jul 2024
-
-- Completed a project-based internship focused on Python programming and application development.
-- Strengthened programming fundamentals, OOP, file handling, exception handling, debugging, and problem-solving skills.
-
----
+- Completed a one-month internship focused on Artificial Intelligence and Generative AI.
+- Strengthened technical knowledge through learning activities and project-based tasks involving AI concepts and applications.
 
 ### 🌐 Web Development Trainee
 **TLogic Foundation** | Jan 2024 – Feb 2024
 
-- Developed responsive web applications using HTML, CSS, JavaScript, and backend form processing with database integration.
-- Gained hands-on experience in full-stack web development and responsive UI design.
+- Developed responsive web applications using HTML, CSS, and JavaScript.
+- Implemented backend form processing and database integration.
+- Applied responsive design principles to build interactive and user-friendly interfaces.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 GramNet AI: Offline Multilingual RAG-based AI Tutor
-🔗 https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor
+### 🎓 GramNet AI – Multilingual RAG-Based AI Tutor
 
-Offline multilingual AI tutor powered by RAG, TinyLLaMA, FastAPI, FAISS, and SentenceTransformers for intelligent learning in low-connectivity environments.
+🔗 [View Repository](https://github.com/kompalwargangotri/gramnet-ai-offline-multilingual-rag-tutor)
 
-**Tech Stack:** Python • FastAPI • TinyLLaMA • FAISS • SentenceTransformers • RAG • Flutter
+Developed an AI-powered multilingual tutoring system using Retrieval-Augmented Generation (RAG) and TinyLLaMA for context-aware educational responses. Implemented semantic search using text chunking, SentenceTransformers embeddings, and FAISS for efficient knowledge retrieval. Integrated a locally hosted TinyLLaMA model through llama.cpp and enabled English, Hindi, and Marathi voice interaction through speech-to-text, translation, and text-to-speech. Added adaptive quizzes and optimized the application for offline-first usage in low-connectivity environments.
 
----
-
-## 🔐 SecureFin: Video KYC & AML Fraud Detection
-🔗 https://github.com/kompalwargangotri/video-kyc-aml-detection
-
-AI-powered Video KYC and AML fraud detection system integrating YOLOv8, DeepFace, Tesseract OCR, liveness detection, and Isolation Forest for secure identity verification.
-
-**Tech Stack:** Python • FastAPI • YOLOv8 • DeepFace • OpenCV • Tesseract OCR • SQLite
+**Tech Stack:** Python • RAG • TinyLLaMA • llama.cpp • FAISS • SentenceTransformers • FastAPI • Speech Recognition • Text-to-Speech
 
 ---
 
-## 🩺 NephroPredict: AI-Based Early Chronic Kidney Disease Detection
-🔗 https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection
+### 🔐 SecureFin – Automated Video KYC & AML Fraud Detection
 
-Machine Learning-based healthcare application using Random Forest for early Chronic Kidney Disease prediction with 90.96% accuracy.
+🔗 [View Repository](https://github.com/kompalwargangotri/securefin-video-kyc-aml)
 
-**Tech Stack:** Python • Scikit-learn • Random Forest • Streamlit • Flask
+Developed an AI-powered Video KYC and Anti-Money Laundering (AML) fraud detection system for automated identity verification and suspicious activity detection. Integrated Tesseract OCR for Aadhaar/PAN document processing, YOLOv8 for person detection and single-person verification, and DeepFace for biometric identity verification. Implemented liveness detection and Isolation Forest-based anomaly detection. Built a FastAPI backend with SQLite for structured data management.
 
----
-
-## ⚡ AI-Based Energy Consumption Prediction & Optimization
-🔗 https://github.com/kompalwargangotri/ai-energy-consumption-prediction
-
-Machine Learning-based energy forecasting and optimization system using Support Vector Regression (SVR) with Streamlit deployment.
-
-**Tech Stack:** Python • Scikit-learn • SVR • Streamlit • Pandas
+**Tech Stack:** Python • FastAPI • YOLOv8 • OpenCV • Tesseract OCR • DeepFace • Isolation Forest • SQLite
 
 ---
 
-# 🌱 Currently Learning
+### 🩺 NephroPredict – AI-Based Chronic Kidney Disease Prediction
 
-- Large Language Models (LLMs)
-- Agentic AI
-- LangChain & LangGraph
+🔗 [View Repository](https://github.com/kompalwargangotri/nephropredict-ai-ckd-detection)
+
+Developed a machine learning-based system for early prediction of Chronic Kidney Disease (CKD) using patient healthcare data. Performed data preprocessing and feature engineering using Pandas and NumPy, and trained a Random Forest classifier using Scikit-learn. Achieved 90.96% accuracy and implemented the trained model for real-time risk prediction.
+
+**Tech Stack:** Python • Scikit-learn • Random Forest • Pandas • NumPy • Machine Learning
+
+---
+
+### ⚡ AI-Based Energy Consumption Prediction
+
+🔗 [View Repository](https://github.com/kompalwargangotri/ai-energy-consumption-prediction)
+
+Designed an intelligent energy consumption prediction system using Machine Learning and Deep Learning techniques. Developed and evaluated Random Forest, Support Vector Machine, Decision Tree, and LSTM models, with SVM achieving the highest reported prediction accuracy of 83.7%. Built a Streamlit application for real-time energy consumption prediction and visualization.
+
+**Tech Stack:** Python • Machine Learning • SVM • Random Forest • LSTM • Scikit-learn • Streamlit • Pandas
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Agentic AI and autonomous AI workflows
+- LangChain and LangGraph
 - Model Context Protocol (MCP)
-- FastAPI & Docker
-- MLOps & AI Deployment
+- Advanced LLM applications and RAG architectures
+- AI deployment and MLOps
+- Scalable AI backend development
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- 🏅 **Fundamentals of Deep Learning** — NVIDIA 
-- 🏅 **Advanced Course on Green Skills and Artificial Intelligence** — Edunet Foundation 
-- 🏅 **Claude 101** — Anthropic 
-- 🏅 **AI Fluency: Framework & Foundations** — Anthropic 
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=kompalwargangotri&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kompalwargangotri&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kompalwargangotri&layout=compact&theme=tokyonight&hide_border=true)
+- 🏅 **Fundamentals of Deep Learning** – NVIDIA
+- 🏅 **Advanced Course on Green Skills and Artificial Intelligence** – Edunet Foundation
+- 🏅 **Claude 101** – Anthropic
+- 🏅 **AI Fluency: Framework & Foundations** – Anthropic
+- 🏅 **Java Programming Masterclass** – Alison
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
-![](https://github-profile-trophy.vercel.app/?username=kompalwargangotri&theme=algolia&no-frame=true&row=1&column=6)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kompalwargangotri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompalwargangotri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-# 📈 Contribution Graph
-
-[![Gangotri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kompalwargangotri&theme=tokyo-night)](https://github.com/kompalwargangotri)
-
----
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kompalwargangotri.github.io)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kompalwargangotri@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kompalwargangotri&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me for AI/ML, Generative AI, and open-source collaborations.**
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kompalwargangotri&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kompalwargangotri&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gangotri-kompalwar-4635b9359">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kompalwargangotri.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:202402070020@mitaoe.ac.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me for AI/ML, Generative AI, Computer Vision, and open-source collaborations.
+</p>
